@@ -4,4 +4,4 @@ data class Student(
     val id: String = "",
     val name: String = "",
     val program: String = ""
-    val docId: String = "" //tambahan dr modul
+    val docId: String = "" //tambahan dr modul dan bagian 3
